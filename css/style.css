@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    text-align: center;
+    color: rgb(199, 176, 45);
+}
+
+.recipeList a {
+    display: block;
+    margin: 15px;
+    text-decoration: none;
+    color: rgb(96, 96, 255);
+    border: 1px solid gray;
+    width: 150px;
+    border-radius: 10%;
+    font-size: 20px;
+}
