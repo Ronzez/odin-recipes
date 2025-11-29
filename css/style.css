@@ -30,10 +30,16 @@ img {
 
 .groupOfElements {
     background-color: rgb(214, 214, 214);
-    margin: 10px;
+    margin: 20px auto 20px 40px;
     width: 40%;
+    padding: 10px;
 }
 
 .blockOfElements {
     margin: 10px auto 10px 40px;
+}
+
+.homeLink {
+    margin: 40px auto 0px 40px;
+    position: fixed;
 }
